@@ -1,3 +1,3 @@
-# projeto 01 - ORGANIZADO
+# Controle TXT - ORGANIZADO
 
-Versão organizada do proj01
+Versão organizada do Controle TXT
